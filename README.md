@@ -13,6 +13,18 @@
 <img width="1748" height="119" alt="screen 8" src="https://github.com/user-attachments/assets/a916cd71-2773-40df-9cbf-c4b2213f31ec" />
 <img width="1748" height="846" alt="screen9" src="https://github.com/user-attachments/assets/967a6ee9-f478-487d-9251-23fbbe2cf578" />
 <img width="1748" height="846" alt="screen10" src="https://github.com/user-attachments/assets/b955241a-e5ba-45ef-8df9-9579a7a0604e" />
+<img width="1694" height="851" alt="20N-1" src="https://github.com/user-attachments/assets/c73a9a5f-43f8-48a9-9485-ff7024eb449b" />
+<img width="1694" height="851" alt="20N-2" src="https://github.com/user-attachments/assets/e674e1dd-17f0-44eb-a505-7432564054c8" />
+<img width="1694" height="851" alt="20N-3" src="https://github.com/user-attachments/assets/548505fd-5174-4346-818b-16729e09537e" />
+<img width="1694" height="851" alt="2oN-4" src="https://github.com/user-attachments/assets/078bbcd1-07ab-46a2-84cd-86df6e470dc1" />
+<img width="1694" height="851" alt="20N-5" src="https://github.com/user-attachments/assets/013d528e-8f49-4609-90cb-cbf9ca21ab32" />
+<img width="1694" height="851" alt="20N-6" src="https://github.com/user-attachments/assets/b86cb9a8-155a-472a-a2aa-7df7af4978c8" />
+<img width="1694" height="851" alt="20N-7" src="https://github.com/user-attachments/assets/9f4061aa-e642-42e2-956f-41b401a2eac8" />
+<img width="1694" height="851" alt="20N-8" src="https://github.com/user-attachments/assets/2b417d19-9ece-483f-ae54-cac501334d5d" />
+<img width="1694" height="851" alt="20N-9" src="https://github.com/user-attachments/assets/a998787e-6105-4224-846f-93b247104909" />
+<img width="1694" height="851" alt="20N-10" src="https://github.com/user-attachments/assets/e4125a83-0f85-403b-be15-af143a3d00c6" />
+<img width="1694" height="851" alt="20N-11" src="https://github.com/user-attachments/assets/6bad2ee2-a9cb-4198-8972-8a5893be1c7f" />
+
 
 
 A modern, feature-rich messaging interface built with React and TypeScript, showcasing dynamic message composition with inline variable insertion, multimedia support, and campaign management.
