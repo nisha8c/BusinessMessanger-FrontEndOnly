@@ -1,14 +1,14 @@
 import { useState } from 'react';
 import { X, Plus, Trash2, Image as ImageIcon, GripVertical, Clock } from 'lucide-react';
 
-import { CarouselCardData, CarouselButton, SuggestionType } from './CarouselMessage';
 
 import { CarouselFieldInput } from './CarouselFieldInput';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import {Button} from "./ui/button.tsx";
 import {Input} from "./ui/input.tsx";
 import {Label} from "./ui/label.tsx";
 import {ScrollArea} from "./ui/scroll-area.tsx";
+import {Select, SelectContent, SelectItem, SelectTrigger, SelectValue} from "./ui/select.tsx";
+import type {CarouselButton, CarouselCardData, SuggestionType} from "../types/types.ts";
 
 interface CarouselBuilderProps {
     isOpen: boolean;
