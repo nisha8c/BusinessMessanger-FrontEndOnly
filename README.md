@@ -160,11 +160,4 @@ The built files will be in the `dist/` directory, ready for deployment.
 
 ## 🚀 Deployment
 
-This project is optimized for deployment on [Lovable](https://lovable.dev). 
-
-To deploy:
-1. Open your project in Lovable
-2. Click the "Publish" button (top right on desktop, bottom right on mobile)
-3. Follow the deployment wizard
-
-You can also deploy to any static hosting service (Vercel, Netlify, etc.) by building the project and uploading the `dist/` folder.
+You can deploy to any static hosting service (Vercel, Netlify, etc.) by building the project and uploading the `dist/` folder.
