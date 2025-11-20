@@ -24,7 +24,8 @@
 <img width="1694" height="851" alt="20N-9" src="https://github.com/user-attachments/assets/a998787e-6105-4224-846f-93b247104909" />
 <img width="1694" height="851" alt="20N-10" src="https://github.com/user-attachments/assets/e4125a83-0f85-403b-be15-af143a3d00c6" />
 <img width="1694" height="851" alt="20N-11" src="https://github.com/user-attachments/assets/6bad2ee2-a9cb-4198-8972-8a5893be1c7f" />
-
+<img width="1694" height="851" alt="new1" src="https://github.com/user-attachments/assets/7e5cb217-e013-485a-a179-d4dc6ab21f01" />
+<img width="1694" height="897" alt="new5" src="https://github.com/user-attachments/assets/8cde24e8-e112-4943-9e6f-ecab4781f51e" />
 
 
 A modern, feature-rich messaging interface built with React and TypeScript, showcasing dynamic message composition with inline variable insertion, multimedia support, and campaign management.
