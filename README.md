@@ -120,7 +120,7 @@ The project uses a comprehensive design system defined in `src/index.css` and `t
 
 ### Sending Messages
 1. Type your message in the input field at the bottom
-2. Use `@` to insert variables (name, email, mobile)
+2. Use `{` to insert variables (name, email, mobile)
 3. Click send or press Enter
 
 ### Creating Threads
