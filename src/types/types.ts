@@ -92,3 +92,11 @@ export interface Recipient {
     email: string;
     mobile: string;
 }
+export interface ThreadMessage {
+    id: string;
+    type: 'text' | 'carousel' | 'media';
+    content?: string;
+    carouselData?: CarouselCardData[];
+    mediaData?: MediaMessageData;
+    suggestions?: SuggestionButton[];
+}
